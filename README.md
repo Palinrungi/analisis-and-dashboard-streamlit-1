@@ -1,4 +1,4 @@
-# winterfel Shop dashboard 
+# Winterfel Shop dashboard 
 
 # Setup Environment
 
