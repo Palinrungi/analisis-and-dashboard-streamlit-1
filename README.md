@@ -2,10 +2,10 @@
 
 # Setup Environment
 
-conda activate main-ds
+   conda activate main-ds
 
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+   pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
 # Run streamlit app
 
-streamlit run dashboard.py
+    streamlit run dashboard.py
